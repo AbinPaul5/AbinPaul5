@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @AbinPaul
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ Something big is what I am hoping to create...
+- 📫 How to reach me ... if you really want you will
+<!---
+AbinPaul5/AbinPaul5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
